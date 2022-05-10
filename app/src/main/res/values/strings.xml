@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalculatorSimple</string>
+    <string name="zero">0</string>
+    <string name="unu">1</string>
+    <string name="doua">2</string>
+    <string name="tri">3</string>
+    <string name="patru">4</string>
+    <string name="cinci">5</string>
+    <string name="sase">6</string>
+    <string name="sapte">7</string>
+    <string name="opt">8</string>
+    <string name="noua">9</string>
+    <string name="Delet">C</string>
+    <string name="Delete1"> </string>
+    <string name="Adunare">+</string>
+    <string name="Scadere">-</string>
+    <string name="Imultire">×</string>
+    <string name="Impartirea">÷</string>
+    <string name="Egal">=</string>
+    <string name="Punct">∙</string>
+    <string name="Procent">%</string>
+    <string name="change"> </string>
+</resources>
